@@ -6,6 +6,9 @@ Skapa ett program som frågar efter 5 namn och sparar dem i en array. Skriv ut n
 #### Level up
 Skriv ut namnen baklänges
 
+##### Level up 2
+Gör så att användaren kan välja hur många namn som får plats i listan
+
 ## Övning matlista
 Skapa ett program som läser in produkter i en matlista tills att användaren skriver "done".
 Malistan får max innehålla 10 produkter.
